@@ -47,7 +47,7 @@ avirus is a bash based script which is officially made for creating all os based
 ```
 ## USAGE OPTIONS [Termux] :
 
-__VANISH DEVICE__ :
+__SPREAD DEVICE__ :
 - From this option you can create virus/malware for any os.
 
 __SAVE DEVICE__ :
